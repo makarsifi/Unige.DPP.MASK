@@ -1,10 +1,10 @@
 # Unige.DPP.MASK
 
-Data Protection & Privacy Project
+##Data Protection & Privacy Project
 
-Paper 10: Maintaining Data Privacy in Association Rule Mining
+##Paper 10: Maintaining Data Privacy in Association Rule Mining
 
-Group members:
+##Group members:
 
 Mouhamad Alkarsifi (5041181)
 
